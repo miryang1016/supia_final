@@ -203,7 +203,3 @@ OECD 평균 근로 시간보다 약 200시간 많이 근무하는 현대의 한�
 ### 📃 ERD
 
 <img src="./ReadmeCheck/db_erd.png" alt="db_erd" width="300px">
-
-### ⚙ 아키텍쳐(임시)
-
-<img src="./ReadmeCheck/Architecture.png" alt="Architecture" width="300px">
