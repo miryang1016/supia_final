@@ -207,19 +207,3 @@ OECD 평균 근로 시간보다 약 200시간 많이 근무하는 현대의 한�
 ### ⚙ 아키텍쳐(임시)
 
 <img src="./ReadmeCheck/Architecture.png" alt="Architecture" width="300px">
-
-## V. 팀원 소개 및 회고
-
-<img src="./ReadmeCheck/Supia_team.png" alt="Supia_team" width="300px">
-
-### 김민경
-
-### 유지현
-
-### 이찬호
-
-### 김미량
-
-### 김예원
-
-### 오승준
